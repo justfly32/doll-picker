@@ -1,0 +1,8 @@
+{
+  "name": "초리얼 인형뽑기 마스터",
+  "description": "실제 오락실 인형뽑기의 물리 엔진, 장력 조절, 미끄러짐, 중간 낙하 확률, 30% 이하 당첨률을 그대로 재현한 리얼 아케이드 인형뽑기 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
